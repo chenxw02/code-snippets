@@ -1,0 +1,206 @@
+{
+  "folders": [
+    {
+      "id": "GQBFko_g",
+      "name": "Default",
+      "defaultLanguage": "typescript",
+      "parentId": null,
+      "isOpen": false,
+      "isSystem": false,
+      "createdAt": 1727144679504,
+      "updatedAt": 1727144679504
+    },
+    {
+      "name": "element",
+      "parentId": null,
+      "isOpen": false,
+      "isSystem": false,
+      "defaultLanguage": "plain_text",
+      "id": "EPrUNnUi",
+      "createdAt": 1727144837491,
+      "updatedAt": 1727144840642
+    },
+    {
+      "name": "zixel",
+      "parentId": null,
+      "isOpen": false,
+      "isSystem": false,
+      "defaultLanguage": "plain_text",
+      "id": "oW9Ypimx",
+      "createdAt": 1727145073542,
+      "updatedAt": 1727145078310
+    },
+    {
+      "name": "css",
+      "parentId": null,
+      "isOpen": false,
+      "isSystem": false,
+      "defaultLanguage": "plain_text",
+      "id": "3WId_R7j",
+      "createdAt": 1727145295534,
+      "updatedAt": 1727145298546
+    },
+    {
+      "name": "vue",
+      "parentId": null,
+      "isOpen": false,
+      "isSystem": false,
+      "defaultLanguage": "plain_text",
+      "id": "7dbjIiJM",
+      "createdAt": 1727145746961,
+      "updatedAt": 1727145750101
+    }
+  ],
+  "snippets": [
+    {
+      "isDeleted": false,
+      "isFavorites": false,
+      "folderId": "EPrUNnUi",
+      "tagsIds": [
+        "7dpdlHGg",
+        "uHmk14KP"
+      ],
+      "description": null,
+      "name": "tooltip",
+      "content": [
+        {
+          "label": "Fragment 1",
+          "language": "vue",
+          "value": "<el-tooltip content=\"已逾期\" placement=\"bottom\">\n\t\n</el-tooltip>"
+        }
+      ],
+      "id": "HMfeGWa1",
+      "createdAt": 1727144842996,
+      "updatedAt": 1727145067879
+    },
+    {
+      "isDeleted": false,
+      "isFavorites": false,
+      "folderId": "oW9Ypimx",
+      "tagsIds": [
+        "7dpdlHGg",
+        "Fkd6M0Rv"
+      ],
+      "description": null,
+      "name": "zicon",
+      "content": [
+        {
+          "label": "Fragment 1",
+          "language": "vue",
+          "value": "  <z-icon name=\"icon-li-reminder\" size=\"12\" />"
+        }
+      ],
+      "id": "D0A93PDm",
+      "createdAt": 1727145080494,
+      "updatedAt": 1727145142683
+    },
+    {
+      "isDeleted": false,
+      "isFavorites": false,
+      "folderId": "3WId_R7j",
+      "tagsIds": [
+        "mcYJBBYQ"
+      ],
+      "description": null,
+      "name": "flexbox",
+      "content": [
+        {
+          "label": "Fragment 1",
+          "language": "css",
+          "value": ".container {\n  display: flex;\n  flex-wrap: wrap; /* 允许换行 */\n  justify-content: space-between; /* 控制水平间距 */\n}\n\n.item {\n  flex-basis: calc(100% / 8 - 10px); /* 每行 8 个，减去间距 */\n  margin-bottom: 10px; /* 控制垂直间距 */\n  height: 50px; /* 高度可以根据需求调整 */\n  background-color: lightgray; /* 背景颜色仅作示例 */\n  text-align: center;\n  line-height: 50px; /* 垂直居中 */\n}\n"
+        }
+      ],
+      "id": "TKyFBO7W",
+      "createdAt": 1727145300614,
+      "updatedAt": 1727145319538
+    },
+    {
+      "isDeleted": false,
+      "isFavorites": false,
+      "folderId": "3WId_R7j",
+      "tagsIds": [
+        "mcYJBBYQ"
+      ],
+      "description": null,
+      "name": "grid",
+      "content": [
+        {
+          "label": "Fragment 1",
+          "language": "css",
+          "value": ".container {\n  display: grid;\n  grid-template-columns: repeat(8, 1fr); /* 每行 8 列 */\n  gap: 10px; /* 控制元素间的间距 */\n}\n\n.item {\n  height: 50px; /* 控制高度 */\n  background-color: lightgray;\n  text-align: center;\n  line-height: 50px; /* 垂直居中 */\n}\n"
+        }
+      ],
+      "id": "v_v4XA0j",
+      "createdAt": 1727145329648,
+      "updatedAt": 1727145342245
+    },
+    {
+      "isDeleted": false,
+      "isFavorites": false,
+      "folderId": "7dbjIiJM",
+      "tagsIds": [],
+      "description": null,
+      "name": "v-for",
+      "content": [
+        {
+          "label": "Fragment 1",
+          "language": "vue",
+          "value": "<div class=\"\" v-for=\"(item, index) in \" :key=\"index\"></div>"
+        }
+      ],
+      "id": "GpY6ivJR",
+      "createdAt": 1727145755231,
+      "updatedAt": 1727145782764
+    },
+    {
+      "isDeleted": false,
+      "isFavorites": false,
+      "folderId": "3WId_R7j",
+      "tagsIds": [],
+      "description": null,
+      "name": "禁止换行",
+      "content": [
+        {
+          "label": "Fragment 1",
+          "language": "css",
+          "value": "white-space: nowrap;"
+        }
+      ],
+      "id": "6wO83GTK",
+      "createdAt": 1727146164831,
+      "updatedAt": 1727146178392
+    }
+  ],
+  "tags": [
+    {
+      "name": "vue",
+      "id": "7dpdlHGg",
+      "createdAt": 1727144874065,
+      "updatedAt": 1727144874065
+    },
+    {
+      "name": "element",
+      "id": "uHmk14KP",
+      "createdAt": 1727144876464,
+      "updatedAt": 1727144876464
+    },
+    {
+      "name": "vu",
+      "id": "K6BQQoU5",
+      "createdAt": 1727145109454,
+      "updatedAt": 1727145109454
+    },
+    {
+      "name": "zixel",
+      "id": "Fkd6M0Rv",
+      "createdAt": 1727145116623,
+      "updatedAt": 1727145116623
+    },
+    {
+      "name": "css",
+      "id": "mcYJBBYQ",
+      "createdAt": 1727145307805,
+      "updatedAt": 1727145307805
+    }
+  ]
+}
